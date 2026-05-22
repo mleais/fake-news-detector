@@ -142,12 +142,4 @@ FAKE / REAL (+ olasılık skoru)
 
 ---
 
-## 📝 Lisans
 
-MIT License — özgürce kullanabilir ve değiştirebilirsiniz.
-
----
-
-## 👤 Yazar
-
-**[Adınız Soyadınız]** | [GitHub](https://github.com/KULLANICI_ADINIZ)
